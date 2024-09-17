@@ -1,0 +1,4 @@
+Download the kafka software and unzip it and rename the folder as kafka only.put it in c drive
+start the zookeeper service : C:\kafka>.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties in one command pront
+start kafka booker service: C:\kafka>.\bin\windows\kafka-server-start.bat .\config\server.properties in another command pront
+
